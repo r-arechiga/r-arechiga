@@ -1,9 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Ryan! </h1>
+
+<h2>👨‍💻 My IT Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/r-arechiga/LABURL)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Ryan Arechiga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ryan-arechiga-26631517b
 
 <!--
-**r-arechiga/r-arechiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
