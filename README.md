@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/r-arechiga/LABURL)
+  - [SQL Server Telemtry & Alerting Pipeline](https://github.com/r-arechiga/LABURL](https://github.com/r-arechiga/SQL-Server-Big-Brother-Dashboard))
 
 
 <h2> 🤳 Connect with me:</h2>
