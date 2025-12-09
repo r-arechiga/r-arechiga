@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 My IT Projects:</h2>
 
-  - [SQL Server Telemtry & Alerting Pipeline](https://github.com/r-arechiga/LABURL](https://github.com/r-arechiga/SQL-Server-Big-Brother-Dashboard)
-
+- [SQL Server Telemetry & Alerting Pipeline](https://github.com/r-arechiga/SQL-Server-Big-Brother-Dashboard)
 
 <h2> 🤳 Connect with me:</h2>
 
