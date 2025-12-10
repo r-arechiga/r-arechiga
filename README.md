@@ -6,9 +6,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ryan Arechiga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ryan Arechiga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] My Linkedin
 
 [linkedin]: https://www.linkedin.com/in/ryan-arechiga-26631517b
+
+
+
 
 <!--
 **  Here are some ideas to get you started:
