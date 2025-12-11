@@ -7,11 +7,11 @@
 ---
 
 ## 💬 Connect With Me  
-<a href="https://www.linkedin.com/in/ryan-arechiga-26631517b" target="_blank">
-  <img align="left" alt="Ryan's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/ryan-arechiga-26631517b" target="_blank"> My Linkedin
+  <img align="left" alt="Ryan's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+</a> 
 
-<br clear="left"/>
+<br clear="left"/>   
 
 ---
 
